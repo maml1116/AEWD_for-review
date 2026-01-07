@@ -1,5 +1,5 @@
 # DISCLAIMER: PRE-RELEASE FOR PEER REVIEW
-This repository contains subset of the Aerial Wildlife Visual Dataset (AWVD). It is provided exclusively for the peer-review process of the manuscript submitted to [Journal Name/Submission ID].
+This repository contains subset of the Aerial Wildlife Visual Dataset (AWVD). It is provided exclusively for the peer-review process of the manuscript submitted to International Journal of Applied Earth Observation and Geoinformation.
 Any redistribution, commercial use, or public usage of this data/code outside the scope of this review is strictly prohibited until the official publication of the paper.    Upon acceptance, full access and usage rights will be granted under the specified licenses.
 
 # AWVD_for-review
