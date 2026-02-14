@@ -10,7 +10,17 @@ To support motion-cue research and pose estimation, we provide the original aeri
 The dataset is organized as follows:
 ```text
 AEWD/
-├── images/        # Single-frame extracted images
-├── annotations/   # Annotation files
-├── scripts/       # dataset informations
-└── LICENSE        # Creative Commons Attribution 4.0 International
+├── images/             # Single-frame extracted images
+│   ├── Amur Tiger/                           # Amur Tiger Images
+│   ├── Giant Panda/                          # Giant Panda Images
+│   ├── Golden Snub-nosed Monkey_Section1/    # Golden Snub-nosed Monkey Images
+│   ├── Golden Snub-nosed Monkey_Section2/
+│   ├── Golden Snub-nosed Monkey_Section3/
+│   ├── Golden Snub-nosed Monkey_Section4/
+│   ├── Sichuan Takin_Section1/                # Sichuan Takin Images
+│   ├── Sichuan Takin_Section2/
+│   ├── Sichuan Takin_Section3/
+│   ├── Sichuan Takin_Section4/
+├── annotations/                               # Annotation files
+├── scripts/                                   # dataset informations
+└── LICENSE                                    # Creative Commons Attribution 4.0 International
